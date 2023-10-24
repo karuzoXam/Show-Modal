@@ -7,7 +7,7 @@ Show Modal
 Es handelt sich um ein kleines Projekt, in dem ich gelernt habe, wie man ein Pop-up-Fenster erstellen kann, das mit dem Drücken der ESC Taste, dem Klicken des close Buttons oder einem Klick außerhalb des Fensters geschlossen werden kann.
 ## Vorschau
 
- ![Show Modal Screenshot](ShowModal.png)
+ ![Show Modal Screenshot](Show Modal.png)
 
 ## Verwendete Technologien
 
