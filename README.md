@@ -1,6 +1,4 @@
-# Projektname
-
-Show Modal
+# Show Modal
 
 ## Beschreibung
 
